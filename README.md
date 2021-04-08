@@ -3,7 +3,7 @@ Circuit breaker pattern using resilience4j
 ## About
 This is my practice of Circuit breaker pattern in microservices, using Resilience4j
 ## Description
-This project consiste of three microservices:
+This project consists of three microservices:
 - movie-catlog-service
 - movie-info-service
 - user-info-service
